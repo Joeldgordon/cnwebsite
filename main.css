@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+.home {
+    color: rgb(199, 41, 186);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.6);
+    margin: 70px;
+}
+
+.Question{
+    color: rgb(199, 41, 186);
+    font-size: 30px;
+    text-align: center;
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.6);
+    margin: 60px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.LinktoTopofPage{
+    color: rgb(199, 41, 186);
+    font-size: 30px;
+    text-align: center; 
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.7);
+    margin: 60px;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.unit-links
+{
+    color: rgb(199, 41, 186);
+    font-size: 30px;
+    text-align: center; 
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.7);
+    margin: 60px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.Answer{
+    color: rgb(199, 41, 186);
+    font-size: 20px;
+    text-align: center; 
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.7);
+    margin: 60px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.Divider{
+    color: rgb(199, 41, 186);
+    font-size: 55px;
+    text-align: center; 
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.7);
+    margin: 60px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+ol{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.coursework {
+    color: rgb(199, 41, 186);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.6);
+    margin: 70px;
+}
+
+.aboutme {
+    color: rgb(199, 41, 186);
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.6);
+    margin: 70px;
+}
+
+.contactme {
+    color: rgb(199, 41, 186);
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.6);
+    margin: 70px;
+}
+
+
+button {
+    color: rgb(199, 41, 186);
+    background-color: rgba(10, 10, 10, 0.6);
+    font-size: 20px;
+     /* To change the color of text in the button */
+}
+
+.homebg{
+    background: url(blackpanther3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+/* changed the html tag and gave it a class of homebg and then used the funtion above to set a background image */
+
+.welcome{
+    text-align: center;
+    font-style: normal;
+    font-size: 80px;
+    color: rgb(199, 41, 186);
+    font-family: 'Roboto Condensed', sans-serif;
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.6);
+    margin: 70px;
+}
+
+.look{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(199, 41, 186);
+    border: solid;
+    background-color: rgba(10, 10, 10, 0.6);
+     /* to change the background color of border
+     */ 
+     margin: 70px;
+     font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* slide 69 copy and paste into the top of the html file  NOT THE CSS FILE */
